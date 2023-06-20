@@ -1,6 +1,7 @@
 function App() {
   return (
     <>
+      <h1>version 2</h1>
       <h1 className="title-one">hello world !</h1>
       <h2 className="title-two">hello ali</h2>
     </>
