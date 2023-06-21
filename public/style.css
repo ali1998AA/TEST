@@ -177,3 +177,8 @@ footer{
 .show-when-mobile {
   display: none;
 }
+
+.main-link.active
+{
+  background-color: teal;
+}
